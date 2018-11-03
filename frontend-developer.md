@@ -40,14 +40,14 @@ Repository detail will include:
 The application will preserve it's state between page reloads.
 
 ## Technical requirements
-Build the application on top of the Node.js, using React framework. Any open-source module that doesn't solve the core functionality of the app may be used.
-Utilize ES6 (and higher) language features. Keep an eye on the application architecture - the code should be reusable, extendible and easy to maintain. Style your app modestly, rather focus on scalability of your style base. Create a repository on GitHub, share it with us and commit as you progress. As a scaffolding tool we recommend to use [Create React App](https://github.com/facebook/create-react-app).
+Write the application in **JavaScript**, on top of the **Node.js**, using **React** framework. Any open-source module that doesn't solve the core functionality of the app may be used.
+Utilize **ES6** (and higher) language features. Keep an eye on the application architecture - the code should be **reusable, extendible and easy to maintain**. Style your app modestly, rather focus on scalability of your style base. Create a repository on GitHub, share it with us and commit as you progress. As a scaffolding tool we recommend to use [Create React App](https://github.com/facebook/create-react-app).
 
 ## Bonus points
 Following features are optional but welcomed:
-1) Use TypeScript instead of JavaScript. In that case, type all interfaces used. Regarding backend entities - use only relevant properties in interfaces.
-2) Use Redux as a tool for state management system.
-3) Create at least one test focused on the core functionality.
+1) Use **TypeScript** instead of JavaScript. In that case, type all interfaces used. Regarding backend entities - use only relevant properties in interfaces.
+2) Use **Redux** as a tool for state management system.
+3) Create at least one **test** focused on the core functionality.
 
 ## Contact
 If you struggle, you can contact us anytime and we will provide more information. Also if you stuck at one point, just try to implement the rest of functionality.
