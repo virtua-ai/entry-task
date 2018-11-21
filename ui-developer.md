@@ -1,4 +1,4 @@
-# Yottly Frontend Entry Task
+# UI Developer Entry Task
 
 The goal of the task is to implement a simple single page application.
 This application will present a few basic UI components and their usage examples.

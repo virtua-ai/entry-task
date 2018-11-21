@@ -1,4 +1,4 @@
-# Yottly Frontend Entry Task
+# Frontend Developer Entry Task
 
 The goal of the task is to implement a simple single page application.
 This application will react to user input, then load some data from public API and display results.
